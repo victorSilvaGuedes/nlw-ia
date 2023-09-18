@@ -2,7 +2,7 @@
 
 > Trilha Foundations
 
-Projeto criado na semana NLW IA da Rocketseat
+Projeto web com inteligência artificial onde é feito um resumo em texto do áudio de um shorts do YouTube, criado na semana NLW IA da Rocketseat
 
 ![preview](.github/preview.png)
 
