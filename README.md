@@ -6,6 +6,9 @@ Projeto web com inteligência artificial onde é feito um resumo em texto do áu
 
 ![preview](.github/preview.png)
 
+
+[Clique aqui para acessar!](https://victorsilvaguedes.github.io/nlwia/)
+
 ## ⚙ Tecnologias
 
 - HTML
