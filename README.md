@@ -1,3 +1,3 @@
 # NLW IA
 
-> Trilha Mastery
+> Trilha Foundations
