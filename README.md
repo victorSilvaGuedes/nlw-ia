@@ -10,6 +10,7 @@ Projeto web com inteligência artificial onde é feito um resumo em texto do áu
 
 - HTML
 - CSS
+- JavaScript
 - Node.js
 - APIs
 - Git e Github
