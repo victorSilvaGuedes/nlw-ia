@@ -6,9 +6,6 @@ Projeto web com inteligência artificial onde é feita a transcrição e um resu
 
 ![preview](.github/preview.png)
 
-
-[Clique aqui para acessar!](https://victorsilvaguedes.github.io/nlwia/)
-
 ## ⚙ Tecnologias
 
 - HTML
